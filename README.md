@@ -9,7 +9,7 @@ you can run the game in two ways
 
 download the folder with all the files inside
 
-1- run the "main.py" file on pychar or visual studio
+1- run the "main.py" file on pycharm or visual studio
 
 2- run "Go-game.exe"  executable file
 
